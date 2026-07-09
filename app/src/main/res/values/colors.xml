@@ -1,0 +1,19 @@
+<resources>
+    <color name="bg_light">#FFFFFF</color>
+    <color name="bg_dark">#121213</color>
+    <color name="border_light">#D3D6DA</color>
+    <color name="border_dark">#3A3A3C</color>
+    <color name="text_light">#000000</color>
+    <color name="text_dark">#FFFFFF</color>
+
+    <color name="tile_correct">#538D4E</color>
+    <color name="tile_misplaced">#B59F3B</color>
+    <color name="tile_wrong_light">#787C7E</color>
+    <color name="tile_wrong_dark">#3A3A3C</color>
+    <color name="key_default_light">#D3D6DA</color>
+    <color name="key_default_dark">#818384</color>
+    <color name="icon_tint">#000000</color>
+    <color name="app_background">#FFFFFF</color>
+    <color name="app_border">#D3D6DA</color>
+    <color name="app_text">#000000</color>
+</resources>

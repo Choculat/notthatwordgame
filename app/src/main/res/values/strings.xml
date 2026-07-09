@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Not that Word Game</string>
+    <string name="history_title">History</string>
+    <string name="action_hint">Hint</string>
+    <string name="action_history">History</string>
+    <string name="action_theme">Toggle theme</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import</string>
+</resources>

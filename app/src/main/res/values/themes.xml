@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.NotThatWordGame" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/tile_correct</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:statusBarColor">@color/bg_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
